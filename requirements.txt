@@ -1,0 +1,4 @@
+requests
+pydot
+graphviz
+argparse
